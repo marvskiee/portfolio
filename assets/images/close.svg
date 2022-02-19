@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="300" height="300" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <image width="90" height="90" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAABHNCSVQICAgIfAhkiAAABJRJREFUeJztne9R2zAYh3/q9XvpBHUnaNggnaB0AsIEZQPCBIUJ6AahE5QNEibATECY4NcPkikNtqM/ryzZ0XOXu1zOei0/57yWJVkGCoVCoVAoFAqFQiFTVOoKtEFyBuALgArA3Pxcmc9ravMBgDvz/V4ptYlZPx+yEE2yAvANWuocwFFgyC20+DsAv5VSdWC8cUPylOSK8VmRPE19vINC8ojkBcmnAQTv8mD2HfqPyZuEgnd5IvkjtQ9xSM5JrhPLbWNNcp7ajwgkf6a2acHP2B6itTqoWxIrALNY+xBmA+B7rBZKFNHU7eA/CG+mDc0WwNcY7fB30gFJLgCsMT7JgK7z2hyDKKJntKngjWTMhJwppX5JBRMTPTHJDWKyRURTN5H+SMTKkGOJnB0s2rQuxpqTbdhCy65DgkhcDFeYrmRAH9sqNEiQaJJXGE87OYSZOVZvvFPHxPNyF1+VUnc+BUNEr3EYZ/NrNkqpY5+CXqmD5BKHJxnQKeTcp6DzGU3dl/uAaV8A+9gC+KyU2roU8jmjz3G4kgF97M5ntY9oyQ7zSwAfzedSMG7s+HGHxUguBPuA35wVwvEXLfGXMeNLir4VrGhr+qGM7FYJJCuB2A23sSRLVpLsGSBlmOxWyZGOobL155KjTxy2taHzgmJ6zM48Yu7rbVt4xOxD2ol42mhY7Nmny5ktGcsW+fTBeNMEJARJxPDhSdIxSM4iVbQhRFRIWQnk7pAHqCzpJyy15L11aLC9GFaW24Vw01fplgtk74WPww2tVTYbvbcMNveuhhs3JNElUCn1i+TL964gA0oGLN3Yih6SvbL7Cg8s2Rrb1PEpai3e0ptGukgk2cqNVTcpm//r8FgP96c8k5VSez2Kz1QSxurMzjVdvCZ30ZMhd9FWqSOgb2QwbEU/Rq1FO07TsRLKtnJjK7r2r4cXXnPeEsmubTbKMXXsveNzvIMcD5QdAvLuN+D/fRcu28ZkKSk6eedMRx1ykN1bB1fRpZu0G9mJRCS3kSoqIUoihg9Ok2isYBnKaiPKUNa5cCV7Z/vQT8xiT0zpi7rXPLxeWKYbtFHZ+rNuR5tHC37bbu8LwzuIbvpkC+K0PIXrDYtkTmqdEgaZXrgu2W2/+RJnplIDZVsfF9TLSjRLS0gTK37t6s1nfvQSwIVruYlxqZRauhTwnYheA/jgWnYiPAOook9ENzsIekJp5CxdJQNhDwttoFfyOiTulVJet9wh3aTyjfX88T5mb9Hmebtr3/Ij5Nr3GUNA5lnwQ0gh3imjQWKE5QT6SjxVniEw4TxYtLkNnYfGyZi5xDpLImOGZj2LcY7T9XMmtb5SWeqnG9GlfsThcIOiMVlIe4m5HNsdxneb/gydk/Nfjg14ydkzAPcx4kfiHsAsx7WnrSB5lToPWDCNvhvqRWA3qW22sOFUFoF9DfUAb6xpCy5sGWNgNSeoRzuWJOsEgmuz78Nab4S6KRhjvsgutxxmwLaTnF6mcIJ/L1MIbRY+49/LFG5zeJlCFqJ3oW6Hz/D29SC7T0A94u3rQTajbaIVCoVCoVAoFAqFQgr+As6jp1drmXGrAAAAAElFTkSuQmCC" id="img_1" />
+    <pattern patternUnits="objectBoundingBox" y="-0%" height="100%" width="100%" id="pattern_1">
+      <use xlink:href="#img_1" transform="scale(2.3222222,2.3222222)" />
+      <path d="M0 0L209 0L209 209L0 209L0 0Z" id="ShapePath" fill="#D3D3D3" fill-rule="evenodd" stroke="none" />
+    </pattern>
+  </defs>
+  <g id="Artboard-2" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <path d="M1104 -1994L1313 -1994L1313 -1785L1104 -1785L1104 -1994Z" id="ShapePath" fill="url(#pattern_1)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
