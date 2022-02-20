@@ -3,7 +3,7 @@ $(document).ready(function () {
   $(".nav-toggle").click(() => {
     $(".nav-menu").toggleClass("active");
   });
-  fetch("/assets/json/work.json")
+  fetch("assets/json/work.json")
     .then((response) => response.json())
     // .then((data) => (newData = data));
     .then((data) => {
