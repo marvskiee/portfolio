@@ -19,8 +19,8 @@ $(document).ready(function () {
         html += `
           <div class="card">
             <div class="card-cover">
-                <a href="./assets/images/${d["cover"]}" target="_blank">
-                    <img src="./assets/images/${d["cover"]}" alt="thumbnail">
+                <a href="assets/images/${d["cover"]} " target="_blank">
+                    <img src="assets/images/${d["cover"]}" alt="thumbnail">
                 </a>
             </div>
             <div class="card-title">
@@ -40,9 +40,9 @@ $(document).ready(function () {
         html = `
         <div class="modal-header">
             <p>${name}</p>
-            <img id="close-modal" alt="close" src="./assets/images/close.png"/>
+            <img id="close-modal" alt="close" src="assets/images/close.png"/>
         </div>
-        <img src="./assets/images/${img}" alt="">
+        <img src="assets/images/${img}" alt="">
             <div><p>To test this app, you must first install expo from the Google Play Store, then scan the QR code.</p></div>
            
         `;
