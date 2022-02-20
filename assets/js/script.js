@@ -26,8 +26,7 @@ $(document).ready(function () {
             <div class="card-title">
                 <p>${d["title"]}</p>${action}
             </div>
-            <div class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, a tempore.
-                Exercitationem, nisi. Iure, nam?</div>
+            <div class="card-body">${d["description"]}</div>
         </div>
           `;
       }

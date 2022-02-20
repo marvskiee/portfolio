@@ -1,56 +1,56 @@
 [
   {
     "title": "ChordsBook",
-    "description": "",
+    "description": "Provides a list of ukulele chords with a wide range of songs from both domestic and foreign artists.",
     "cover": "chordsbook_cover.PNG",
     "link": "https://chords-book.herokuapp.com/",
     "action": "Visit"
   },
   {
     "title": "Cryptobat",
-    "description": "",
+    "description": "It shows the top crypto currency market rank.",
     "cover": "cryptobat_cover.PNG",
     "link": "https://crypto-bat.herokuapp.com/",
     "action": "Visit"
   },
   {
     "title": "Wild Path",
-    "description": "",
+    "description": "For persons who are interested in nature preservation and want a quick overview of work options",
     "cover": "wildpath_cover.PNG",
     "link": "https://marvskiee.github.io/projwild/",
     "action": "Visit"
   },
   {
     "title": "Valorant HQ",
-    "description": "",
+    "description": "Provides Valorant players with a fast overview of limited character talents, abilities, and lineups.",
     "cover": "valorant_cover.PNG",
     "link": "https://marvskiee.github.io/valorant-beginner/",
     "action": "Visit"
   },
   {
     "title": "Inutz",
-    "description": "",
+    "description": "a note-taking application with an account feature to keep a record of your saved notes",
     "cover": "inutz_cover.png",
     "link": "null",
     "action": "Get Qrcode"
   },
   {
     "title": "AnimeGon",
-    "description": "",
+    "description": "is a mobile application that offers a vast and impressive selection of anime.",
     "cover": "animegon_cover.png",
     "link": "null",
     "action": "Get Qrcode"
   },
   {
     "title": "AsianHuba",
-    "description": "",
+    "description": "is a mobile application that offers a huge and diverse selection of Asian dramas, including Thai films, Korean dramas, and Japanese films.",
     "cover": "asianhuba_cover.png",
     "link": "null",
     "action": "Get Qrcode"
   },
   {
     "title": "Ncov-Trace",
-    "description": "",
+    "description": "Keeps track of the world's and country's daily covid cases",
     "cover": "ncovtrace_cover.PNG",
     "link": "https://ncov-trace.herokuapp.com/tracker",
     "action": "Visit"

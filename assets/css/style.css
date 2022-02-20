@@ -91,7 +91,7 @@ nav ul {
   display: flex;
   padding: 0;
 }
-nav a {
+.nav-menu a {
   color: #fff;
   display: block;
   padding: 1em 2em;
@@ -166,10 +166,13 @@ section {
   background-color: var(--clr-dark-blue);
 }
 
+.aboutme > .wrapper > div:first-child p {
+  text-indent: 3em;
+}
 .aboutme p {
   color: var(--clr-custom-white);
   line-height: 1.5em;
-  /* font-size: 13pt; */
+  font-size: 12pt;
 }
 .aboutme .wrapper > div {
   margin-bottom: 5em;
@@ -239,6 +242,7 @@ header {
 }
 .card-body {
   padding: 1em 0;
+  font-size: 13pt;
   line-height: 1.5em;
   color: var(--clr-dark-blue);
 }
@@ -351,6 +355,9 @@ h1 {
   font-size: 20pt;
 }
 @media only screen and (min-width: 600px) {
+  .aboutme p {
+    font-size: 15pt;
+  }
   .card {
     max-width: calc(50% - 1em);
   }
