@@ -7,6 +7,13 @@
     "action": "Visit"
   },
   {
+    "title": "Netflix Clone",
+    "description": "yeah",
+    "cover": "nutflix_cover.PNG",
+    "link": "https://nutflixx.herokuapp.com/",
+    "action": "Visit"
+  },
+  {
     "title": "Cryptobat",
     "description": "It shows the top crypto currency market rank.",
     "cover": "cryptobat_cover.PNG",
